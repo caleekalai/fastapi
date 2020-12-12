@@ -1,13 +1,37 @@
-The contents of the FastAI Repo
+#Link https://www.youtube.com/watch?v=5bMdjkfvONE
 
-1)
+Prerequisites
 
-2)
+  Text Editor 
+  
+  Web Browser
 
-3)
+TODOs
 
-4)
+1) Build the Project
+  
+   -Creating the Folder
+   -Adding the Files
+   -Connecting the Files
 
-5)
+2) Navbar
 
-6)
+   - 2 Links and a Name
+
+3) Portfolio Item Grid
+   - Images
+   - Titles
+   - Descriptions
+   - Animations
+   -Javascript
+
+4) About page
+   - Image
+   - Split Column Layout
+   - Content
+   
+   
+   
+
+
+   
